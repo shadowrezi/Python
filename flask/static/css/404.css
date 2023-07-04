@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+h1 {
+    color: #000;
+    font-size: 24px;
+    padding: 50px;
+}
+
+p {
+    color: #777777;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-left: 50px;
+}
+
+.er404 {
+    margin-left: 100px;
+}

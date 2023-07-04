@@ -1,0 +1,48 @@
+body {
+    background-color: #131517;
+    color: #fff;
+}
+
+.box, .logo {
+	margin: 75px auto;
+	margin-bottom: 70px;
+	margin-top: 40px;
+	text-align: center;
+	background-color: #1f2429;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	width: 300px;
+	padding: 20px;
+	color: #fff;
+}
+
+.box {
+	top: 50px;
+}
+
+#img {
+	width: 100px;
+}
+
+#data, #password, #send-data, #send-password {
+	margin: 10px;
+	padding: 10px;
+	background-color: #252e38;
+	color: #fff;
+	outline: 0;
+	border: 0;
+	border-bottom: 2px solid #2484f2;
+	font-size: 1.2em;
+	width: 270px;
+}
+
+#send-password, #send-data {
+	margin-left: 10px;
+	width: 290px;
+	cursor: pointer;
+	text-transform: capitalize;
+}
+
+#send-data:hover, #send-password:hover {
+	color: #fff;
+	background-color: #2285f5;
+}

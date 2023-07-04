@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "eslint": "^8.37.0",
+    "eslint-config-rallycoding": "^3.2.0"
+  }
+}

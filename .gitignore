@@ -1,0 +1,9 @@
+*.env
+
+.vs/*
+.idea/*
+.vscode/*
+tests/*
+node.js/*
+venv/*
+rust/*
