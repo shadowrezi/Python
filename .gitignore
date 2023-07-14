@@ -3,7 +3,6 @@
 .vs/*
 .idea/*
 .vscode/*
-tests/*
+__pycache__
 node.js/*
 venv/*
-target/*
