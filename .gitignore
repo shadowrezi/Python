@@ -6,4 +6,4 @@
 tests/*
 node.js/*
 venv/*
-rust/*
+target/*
